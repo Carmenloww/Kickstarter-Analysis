@@ -8,9 +8,9 @@ The purpose of this project was to help Louise plan her campaign. We can make da
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Outcomes Based on Launch Date](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes Based on Goals](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
 ### Challenges and Difficulties Encountered
 
 ## Results
@@ -21,7 +21,6 @@ The two conclusion I can draw about the Outcomes based on the Launch Date is tha
 
 - What can you conclude about the Outcomes based on Goals?
 I can conclude that there are no direct correlations on the Outcome based on Goals.
-
 
 - What are some limitations of this dataset?
 Some limitations of this dataset are  
