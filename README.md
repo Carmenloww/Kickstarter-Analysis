@@ -10,8 +10,12 @@ The purpose of this project was to help Louise plan her campaign. We can make da
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
+ basic knowledge to make pivot tables to graphing to visualize campaigns that were successful, failed, and canceled based on the launch date. I had the pivot tables to be filtered to include only the theater campaign from the Kickstarter data.
+ 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
+
+I used the new function, COUNTIFS(), to obtain the goal data for the plays subcategory. I filtered the Kickstarter data set using the "Countifs()" function to get the number of successful projects, failed projects, and canceled projects based on the goal amount. I also used the "Sum()" function to calculate the total of the project for each goal range. Then I made a line graph to display the percentage of successful and failed and canceled projects based on the project's goal amount.
 
 ### Challenges and Difficulties Encountered
 
