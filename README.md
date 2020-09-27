@@ -10,6 +10,8 @@ The purpose of this project was to help Louise plan her campaign. We can make da
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
+I created the extra column for the years using the "Year()" function basing on the Date Created Conversion column.  I made a pivot table using the Kickstarter data and filtered the Parent Category's and the years' column.  I had the pivot tables to be filtered to include only the theater campaign from the Kickstarter data and by months. I made a line graph to present the number of successful, failed, or canceled projects. 
+
  basic knowledge to make pivot tables to graphing to visualize campaigns that were successful, failed, and canceled based on the launch date. I had the pivot tables to be filtered to include only the theater campaign from the Kickstarter data.
  
 ### Analysis of Outcomes Based on Goals
