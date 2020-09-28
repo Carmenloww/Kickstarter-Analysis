@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project was to help Louise plan her campaign. We can make data and analyze the Kickstarter data file provided by using Excel.
+The purpose of this project was to help Louise plan her campaign. She wanted to see how different the campaigns do with their launch dates and their funding goals. We can obtain data and analyze the Kickstarter data file being provided by using Excel.
 
 ## Analysis and Challenges
 
@@ -37,7 +37,7 @@ Some limitations of this dataset are data could be incomplete. The location is s
 
 - What are some other possible tables and/or graphs that we could create?
 
-Some possible tables/graphs we could create are 
+We could create additional tables such as to obtain information
 
 
 
